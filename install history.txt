@@ -1,0 +1,11 @@
+snap list
+
+# Connects the Gnome Extensions to the Browser Extension
+sudo apt-get install chrome-gnome-shell
+sudo apt install gnome-shell-extensions
+
+
+# nautalus extensions
+sudo apt-get install -y gnome-sushi
+sudo apt install nautilus-image-converter nautilus-scripts-manager nautilus-sendto nautilus-share subliminal-nautilus nautilus-dropbox folder-color
+sudo ./autorun.sh 
